@@ -7,7 +7,7 @@ Our  system is a 2.5 axis system that will act as a pen plotter. Our system is s
 Instead of dropping the pen to write, we will be raising the edge of the platform using a solenoid placed at the far edge of the paper holder. The paper holder will be attached to a hinge that allows it to rotate out of reach of the pen. 
 
 ## **Functional Prototype**
-![Time_Constant](full_inact.jpg)
+![Time_Constant](full_inact.png)
 ![Time_Constant](pen_upclose.jpg)
 ![Time_Constant](underneath.jpg)
 ![Time_Constant](no_pen.jpg)
