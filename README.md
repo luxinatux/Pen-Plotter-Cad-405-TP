@@ -10,11 +10,10 @@ Instead of dropping the pen to write, we will be raising the edge of the platfor
 Included Below is a link to our plotter drawing a smiley face: 
 https://youtu.be/C0HX3mLi9cc
 
-<img src="full_inact.png" width="200" height="100">
-![Time_Constant](full_inact.png)
-![Time_Constant](pen_upclose.jpg)
-![Time_Constant](underneath.jpg)
-![Time_Constant](no_pen.jpg)
+![Time_Constant](full_inact3.png)
+![Time_Constant](pen_upclose2.jpg)
+![Time_Constant](underneath2.jpg)
+![Time_Constant](no_pen2.jpg)
 
 ## **CAD Model**
 ![Time_Constant](angled-view-sled.png)
