@@ -9,9 +9,8 @@ Instead of dropping the pen to write, we will be raising the edge of the platfor
 ## **Functional Prototype**
 Included Below is a link to our plotter drawing a smiley face: 
 https://youtu.be/C0HX3mLi9cc
-<div style="float:left;margin:0 100px 100px 0" markdown="1">
-    ![Time_Constant](full_inact.png)
-</div>
+
+<img src="full_inact.png" width="200" height="100">
 ![Time_Constant](full_inact.png)
 ![Time_Constant](pen_upclose.jpg)
 ![Time_Constant](underneath.jpg)
